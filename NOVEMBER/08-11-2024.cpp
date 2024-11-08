@@ -34,6 +34,5 @@ public:
         reverse(pre.begin(),pre.end());
 
         return pre;
-
     }
 };
